@@ -9,7 +9,7 @@ import (
 
 	"github.com/jinzhu/now"
 
-	"gopkg.in/alecthomas/kingpin.v2"
+	"github.com/alecthomas/kingpin/v2"
 )
 
 // exportDateFormat defines the date format for start and end dates of the export command.
